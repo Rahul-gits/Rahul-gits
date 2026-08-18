@@ -1,27 +1,59 @@
-# 💫 About Me:
-🔭 **I’m currently working on**<br>Building **AI-powered and full-stack applications** that combine **Computer Vision, Generative AI, and scalable cloud architectures**.<br>Currently developing projects like **Ai-Fitness**, an AI fitness assistant that performs **real-time pose analysis, automated rep counting, and voice-based coaching using LLMs**.<br><br>🚀 **Founder & Builder**<br>**Founder of Nomotix**, an AI-driven automotive service platform connecting vehicle owners with verified mechanics through **real-time tracking, intelligent service matching, and scalable microservice architecture**.<br><br>💼 **Professional Experience**<br>**Full Stack Developer Intern at HouseWay** where I build **role-based enterprise dashboards**, implement **secure OTP authentication systems**, and develop scalable backend services using **Node.js, MongoDB, and modern web technologies**.<br><br>🤝 **I’m looking to collaborate on**<br>Projects involving **AI/ML, Computer Vision, Generative AI, intelligent automation, and scalable SaaS platforms**.<br><br>🌱 **I’m currently learning**<br>Advanced **MLOps, Agentic AI systems, scalable distributed architectures, and production-ready AI deployments**.<br><br>💬 **Ask me about**<br>Machine Learning, **Computer Vision with OpenCV & MediaPipe**, Generative AI, RAG systems, full-stack development (**React, Node.js, FastAPI**), and building **AI-powered products from idea to deployment**.<br><br>⚡ **Fun fact**<br>I enjoy transforming **complex real-world problems into intelligent AI-driven products**, combining **technology, business thinking, and product innovation**.<br>
+# rahul-gits
 
+> Memorable developer positioning.
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/JHfgD7m3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahul_3.4.5) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-gunda-411394318) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RahulGunda63109) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rahulgunda206@gmail.com) 
+**Theme:** GitHub Â· **Style:** Creative Â· **Agent:** Full-Stack Engineer
 
-# 💻 Tech Stack:
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) !![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rahul-gits&theme=gotham&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rahul-gits&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-gits&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Header
+> Editing this section in the inspector.
+Hi, I'm **rahul-gits**. This README is tuned for **personal brand** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark" alt="rahul-gits hero section" />
+  </picture>
+</p>
+## About Me
+Shapes the short profile story and positioning.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=rahul-gits&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=rahul-gits&theme=github-dark" alt="rahul-gits about section" />
+  </picture>
+</p>
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rahul-gits&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=rahul-gits&theme=github-dark" alt="rahul-gits stack section" />
+  </picture>
+</p>
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rahul-gits&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=rahul-gits&theme=github-dark" alt="rahul-gits stats section" />
+  </picture>
+</p>
+## Projects
+Highlights repositories as proof of work.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rahul-gits&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=rahul-gits&theme=github-dark" alt="rahul-gits projects section" />
+  </picture>
+</p>
+## Heatmap
+Animated year-long contribution calendar.
+## Connect
+Contact and social links will appear here.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=rahul-gits&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=rahul-gits&theme=github-dark" alt="rahul-gits social section" />
+  </picture>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rahul-gits&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahul-gits&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=Rahul-gits&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Heatmap, Connect -->
