@@ -1,33 +1,33 @@
 <!-- ========================================================================== -->
-<!--                      RAHUL-GITS GITHUB PROFILE README                      -->
+<!--                  RAHUL-GITS ULTIMATE GITHUB PROFILE README                 -->
 <!-- ========================================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=RAHUL-GITS%20%E2%9A%A1%20FULL-STACK%20ENGINEER&fontSize=32&fontColor=3FB950&animation=twinkle" alt="Rahul-gits Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=🌌%20RAHUL-GITS%20%7C%20FULL-STACK%20SPACE%20ENGINEER&fontSize=32&fontColor=3FB950&animation=twinkle" alt="Rahul-gits Header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=Hi+%F0%9F%90%8B+I'm+Rahul;Full-Stack+Engineer+%26+Deep+Space+Coder;Building+Next-Gen+Web+Apps+%26+Scalable+Systems;Destroying+Bugs+in+Deep+Space+%F0%9F%9A%80" alt="Typing SVG Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%90%8B+I'm+Rahul;Full-Stack+Engineer+%26+Deep+Space+Coder;Architecting+Scalable+Web+Apps+%26+Interactive+Tools;Destroying+Production+Bugs+in+Deep+Space+%F0%9F%9A%80" alt="Typing SVG Header" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Rahul-gits">
-    <img src="https://img.shields.io/badge/Status-🟢_Building_Cool_Stuff-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Status Badge" />
+    <img src="https://img.shields.io/badge/Status-🟢_Building_Next--Gen_Apps-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Status Badge" />
   </a>
   <a href="https://github.com/Rahul-gits">
-    <img src="https://img.shields.io/badge/Role-Full--Stack_Engineer-58a6ff?style=for-the-badge&logo=codefactor&logoColor=white" alt="Role Badge" />
+    <img src="https://img.shields.io/badge/Role-Full--Stack_Software_Engineer-58a6ff?style=for-the-badge&logo=codefactor&logoColor=white" alt="Role Badge" />
   </a>
   <a href="#-git-invaders-space-shooter-arcade">
-    <img src="https://img.shields.io/badge/Minigame-👾_Space_Shooter_Ready-bc8cff?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game Badge" />
+    <img src="https://img.shields.io/badge/Arcade-👾_Space_Shooter_Active-bc8cff?style=for-the-badge&logo=gamepad&logoColor=white" alt="Game Badge" />
   </a>
   <a href="https://github.com/Rahul-gits">
-    <img src="https://img.shields.io/badge/Level-99_Full--Stack_Cadet-d29922?style=for-the-badge&logo=star&logoColor=white" alt="Level Badge" />
+    <img src="https://img.shields.io/badge/Level-99_Space_Cadet-d29922?style=for-the-badge&logo=star&logoColor=white" alt="Level Badge" />
   </a>
 </p>
 
 ---
 
-## 💻 Terminal Overview
+## 💻 Terminal & System Overview
 
 ```bash
 Rahul-gits@github:~$ cat profile.json
@@ -38,8 +38,8 @@ Rahul-gits@github:~$ cat profile.json
     "title": "Full-Stack Software Engineer",
     "location": "Earth / Deep Space Orbit 🛰️",
     "mission": "Crafting resilient web applications, modern UI design systems, and interactive tools",
-    "current_focus": ["Next.js 14", "TypeScript", "HTML5 Canvas Games", "Cloud Systems"],
-    "specs": {
+    "current_focus": ["Next.js 14", "TypeScript", "HTML5 Canvas Mini-Games", "Cloud Architecture"],
+    "metrics": {
       "coffee_to_code_ratio": "∞",
       "bugs_slain": 1337,
       "uptime": "99.99%"
@@ -48,22 +48,36 @@ Rahul-gits@github:~$ cat profile.json
 }
 ```
 
+<details>
+  <summary>🔍 <b>[CLICK TO EXPAND] Developer Philosophy & System Blueprint</b></summary>
+
+<br>
+
+> *"Clean code is not written by chance; it is architected with intention and tested in deep space."*
+
+- 🎯 **Core Philosophy**: Building performant, accessible, and delightful digital experiences.
+- ⚡ **Engineering Principles**: Modular design systems, type-safe APIs, fast render cycles, and 100% non-blocking async architecture.
+- 🌌 **Current Quest**: Mastering WebGL shaders, serverless edge compute, and real-time multiplayer game loops.
+
+</details>
+
 ---
 
 ## 👾 Git Invaders: Space Shooter Arcade
 
-> **Defend the repository!** Destroy incoming bugs, syntax errors, and merge conflicts right here on GitHub.
+> **Defend the repository!** Battle incoming bugs, memory leaks, and merge conflicts right here on GitHub.
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=750&lines=%F0%9F%90%BE+GIT+INVADERS+%3A+DEFEND+THE+REPO+%F0%9F%9A%80;Annihilate+Production+Bugs+%26+Merge+Conflicts!" alt="Space Shooter Banner" />
 </p>
 
 <details>
-  <summary>🎮 <b>[CLICK TO EXPAND] Interactive Space Shooter Terminal Adventure</b></summary>
+  <summary>🎮 <b>[CLICK TO PLAY] Interactive Space Shooter Terminal Adventure</b></summary>
 
 <br>
 
 ```text
+================================================================================
      👾  👾  👾  👾  👾  👾  👾  👾  👾   <-- Incoming Syntax Errors & Bugs!
         👾  👾  👾  👾  👾  👾
            💥        💥
@@ -72,6 +86,7 @@ Rahul-gits@github:~$ cat profile.json
                   /█\
                  //█\\
                 =======
+================================================================================
 ```
 
 ### Choose your move against the Alien Bug Cluster:
