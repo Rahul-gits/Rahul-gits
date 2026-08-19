@@ -20,8 +20,8 @@
   <a href="mailto:rahulgunda206@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email Badge" />
   </a>
-  <a href="https://github.com/Rahul-gits/Rahul-gits">
-    <img src="https://img.shields.io/badge/Status-🟢_System_Online-39ff88?style=for-the-badge&logo=codefactor" alt="Status Badge" />
+  <a href="https://rahul-gits.github.io/Rahul-gits/">
+    <img src="https://img.shields.io/badge/Arcade-🎮_PLAY_LIVE_NOW-39ff88?style=for-the-badge&logo=gamepad" alt="Play Live Badge" />
   </a>
 </p>
 
@@ -223,7 +223,7 @@ Web Foundations   Full Stack Apps   ML & Vision      GenAI & Agentic AI
 > **The README is the entrance. The Arcade is the playground.**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+SPACE+SHOOTER+%E2%80%A2+%F0%9F%90%8D+TECH+SNAKE;Play+Interactive+Arcade+Games+Right+Here!" alt="Arcade Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+SPACE+SHOOTER+%E2%80%A2+%F0%9F%90%8D+TECH+SNAKE;Play+Interactive+Arcade+Games+Live!" alt="Arcade Banner" />
 </p>
 
 ```text
@@ -240,9 +240,39 @@ Web Foundations   Full Stack Apps   ML & Vision      GenAI & Agentic AI
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
+<details>
+  <summary>👾 <b>[PLAY DIRECTLY ON GITHUB] Interactive Text Space Shooter Adventure</b></summary>
+
+<br>
+
+```text
+================================================================================
+     👾  👾  👾  👾  👾  👾  👾  👾  👾   <-- Incoming Syntax Errors & Bugs!
+        👾  👾  👾  👾  👾  👾
+           💥        💥
+
+                   ▲              <-- Rahul Starship
+                  /█\
+                 //█\\
+                =======
+================================================================================
+```
+
+### Choose your move against the Alien Bug Cluster:
+- 💥 **[FIRE LASER]** `Rahul.shootLaser()` -> Clears red console errors!
+- ⚡ **[HOTFIX SHIELD]** `Rahul.deployShield()` -> Blocks incoming breaking changes!
+- 💣 **[COMMIT BOMB]** `git commit -m "Fix all bugs"` -> Obliterates the enemy wave!
+
+</details>
+
+<br>
+
 <p align="center">
-  <a href="index.html">
-    <img src="https://img.shields.io/badge/🎮_ENTER_RAHUL_ARCADE_HUB-00E5FF?style=for-the-badge&logoColor=black" alt="Enter Arcade Hub" />
+  <a href="https://rahul-gits.github.io/Rahul-gits/">
+    <img src="https://img.shields.io/badge/🎮_LAUNCH_LIVE_FULLSCREEN_ARCADE_HUB-00E5FF?style=for-the-badge&logoColor=black" alt="Launch Live Arcade" />
+  </a>
+  <a href="https://rahul-gits.github.io/Rahul-gits/arcade/">
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_STANDALONE_ARCADE-39FF88?style=for-the-badge&logoColor=black" alt="Launch Standalone Arcade" />
   </a>
 </p>
 
