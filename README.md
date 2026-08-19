@@ -3,14 +3,6 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark" alt="rahul-gits hero section" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
   <a href="https://github.com/rahul-gits">
     <img src="https://img.shields.io/badge/Status-🟢_Building_Cool_Stuff-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Status Badge" />
   </a>
@@ -34,7 +26,7 @@ rahul-gits@github:~$ cat profile.json
   "role": "Full-Stack Software Engineer",
   "location": "Earth / Deep Space Orbit 🛰️",
   "mission": "Crafting resilient web apps & interactive digital experiences",
-  "current_focus": ["Next.js 14", "TypeScript", "HTML5 Canvas Mini-Games", "Cloud Architecture"],
+  "current_focus": ["Next.js", "TypeScript", "HTML5 Canvas Mini-Games", "Cloud Architecture"],
   "stats": {
     "coffee_to_code_ratio": "∞",
     "bugs_destroyed": 1337,
@@ -50,34 +42,38 @@ rahul-gits@github:~$ cat profile.json
 > Battle space bugs, memory leaks, and merge conflicts right here!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=161b22&height=180&section=header&text=👾%20GIT%20INVADERS%20:%20DEFEND%20THE%20REPO&fontSize=32&fontColor=3FB950&animation=twinkle" alt="Space Shooter Banner" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=700&lines=%F0%9F%90%BE+GIT+INVADERS+%3A+DEFEND+THE+REPO+%F0%9F%9A%80;Annihilate+Production+Bugs+%26+Merge+Conflicts!" alt="Space Shooter Banner" />
 </p>
 
 <details>
   <summary>🎮 <b>[CLICK TO PLAY] Interactive Space Shooter Terminal Adventure</b></summary>
-  <br/>
 
+<br>
+
+```text
+     👾  👾  👾  👾  👾  👾  👾  👾  👾   <-- Incoming Syntax Errors & Bugs!
+        👾  👾  👾  👾  👾  👾
+           💥        💥
+
+                   ▲              <-- rahul-gits Starship
+                  /█\
+                 //█\\
+                =======
 ```
-     👾 👾 👾 👾 👾 👾 👾 👾 👾   <-- Incoming Syntax Errors & Bugs!
-        👾 👾 👾 👾 👾 👾
-           💥      💥
 
-                  ▲             <-- rahul-gits Starship
-                 /█\
-                //█\\
-               =======
-```
+### Choose your move against the Alien Bug Cluster:
+- 💥 **[FIRE LASER]** `rahul-gits.shootLaser()` -> Clears red console errors!
+- ⚡ **[HOTFIX SHIELD]** `rahul-gits.deployShield()` -> Blocks incoming breaking changes!
+- 💣 **[COMMIT BOMB]** `git commit -m "Fix all bugs"` -> Obliterates the enemy wave!
 
-  ### Choose your move against the Alien Bug Cluster:
-  - 💥 **[FIRE LASER]** `rahul-gits.shootLaser()` -> Clears red console errors!
-  - ⚡ **[HOTFIX SHIELD]** `rahul-gits.deployShield()` -> Blocks incoming breaking changes!
-  - 💣 **[COMMIT BOMB]** `git commit -m "Fix all bugs"` -> Obliterates the enemy wave!
+*💡 Pro tip: Open `index.html` in your browser to play the full HTML5 Canvas Arcade game with sound FX & high scores!*
 
-  *💡 Pro tip: Open `index.html` in your browser to play the full HTML5 Canvas Arcade game with sound FX & high scores!*
 </details>
 
+<br>
+
 <p align="center">
-  <a href="index.html">
+  <a href="https://github.com/rahul-gits/rahul-gits">
     <img src="https://img.shields.io/badge/🚀_LAUNCH_FULL_SPACE_SHOOTER_GAME-3FB950?style=for-the-badge&logoColor=white" alt="Launch Game" />
   </a>
 </p>
@@ -85,14 +81,6 @@ rahul-gits@github:~$ cat profile.json
 ---
 
 ## ⚡ About Me
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/about?username=rahul-gits&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=rahul-gits&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/about?username=rahul-gits&theme=github-dark" alt="rahul-gits about section" width="100%" />
-  </picture>
-</p>
 
 - 🔭 I’m currently working on **scalable web applications, high-performance UI systems, and interactive tools**.
 - 🌱 I’m currently learning **advanced web animation, WebGL, and cloud-native serverless systems**.
@@ -103,14 +91,6 @@ rahul-gits@github:~$ cat profile.json
 ---
 
 ## 🛠️ Skills & Tech Stack
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stack?username=rahul-gits&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=rahul-gits&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=rahul-gits&theme=github-dark" alt="rahul-gits stack section" width="100%" />
-  </picture>
-</p>
 
 ### 🌐 Frontend Mastery
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -128,7 +108,6 @@ rahul-gits@github:~$ cat profile.json
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### ☁️ DevOps & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -141,14 +120,6 @@ rahul-gits@github:~$ cat profile.json
 ---
 
 ## 📊 GitHub Analytics & Metrics
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/stats?username=rahul-gits&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=rahul-gits&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stats?username=rahul-gits&theme=github-dark" alt="rahul-gits stats section" width="100%" />
-  </picture>
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahul-gits&show_icons=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d&hide_border=false" alt="rahul-gits GitHub Stats" height="170" />
@@ -169,28 +140,22 @@ rahul-gits@github:~$ cat profile.json
 
 <details>
   <summary>🎖️ <b>[CLICK TO VIEW] Unlocked Space Achievements</b></summary>
-  <br/>
 
-  | Badge | Achievement | Description |
-  | :---: | :--- | :--- |
-  | 👨‍🚀 | **Space Cadet** | Initialized `rahul-gits` GitHub profile |
-  | 👾 | **Bug Destroyer** | Annihilated over 1,000 production bugs |
-  | ⚡ | **Async Master** | Handled complex non-blocking promises |
-  | 🛡️ | **Clean Code Sentinel** | Maintained 99.9% repository stability |
-  | 💣 | **Commit Bomb** | Pushed zero-downtime features to production |
+<br>
+
+| Badge | Achievement | Description |
+| :---: | :--- | :--- |
+| 👨‍🚀 | **Space Cadet** | Initialized `rahul-gits` GitHub profile |
+| 👾 | **Bug Destroyer** | Annihilated over 1,000 production bugs |
+| ⚡ | **Async Master** | Handled complex non-blocking promises |
+| 🛡️ | **Clean Code Sentinel** | Maintained 99.9% repository stability |
+| 💣 | **Commit Bomb** | Pushed zero-downtime features to production |
+
 </details>
 
 ---
 
 ## 🚀 Featured Projects
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/projects?username=rahul-gits&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=rahul-gits&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/projects?username=rahul-gits&theme=github-dark" alt="rahul-gits projects section" width="100%" />
-  </picture>
-</p>
 
 <table width="100%">
   <tr>
@@ -229,21 +194,9 @@ rahul-gits@github:~$ cat profile.json
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahul-gits&theme=github-compact&bg_color=0d1117&color=3fb950&line=58a6ff&point=bc8cff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-gits/rahul-gits/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
-</p>
-
 ---
 
 ## 🌐 Connect & Socials
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/social?username=rahul-gits&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=rahul-gits&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/social?username=rahul-gits&theme=github-dark" alt="rahul-gits social section" width="100%" />
-  </picture>
-</p>
 
 <p align="center">
   <a href="https://github.com/rahul-gits">
