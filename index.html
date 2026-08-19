@@ -3,37 +3,39 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>rahul-gits | Full-Stack Engineer & Space Shooter Arcade</title>
-  <meta name="description" content="Personal brand developer portfolio and interactive GitHub README preview for rahul-gits featuring embedded HTML5 Space Shooter mini-game, dark-mode animations, and tech stack matrix." />
+  <title>RAHUL.OS | AI Engineer × Full Stack Builder × Interactive Arcade</title>
+  <meta name="description" content="Gunda Rahul (RAHUL.OS) — AI Engineer & Full Stack Builder. Explore AI Lab experiments, product ecosystem, tech matrix, and interactive arcade games." />
   
   <!-- Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&family=Inter:wght@400;500;600;700;800&family=Space+Grotesk:wght@500;700&display=swap" rel="stylesheet" />
 
   <!-- CSS -->
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
 
-  <!-- Background Starfield -->
+  <!-- Starfield Canvas Background -->
   <canvas id="starfield"></canvas>
 
   <!-- Navbar -->
   <nav class="navbar">
     <div class="container nav-content">
       <div class="nav-logo">
-        <svg width="24" height="24" viewBox="0 0 16 16" fill="currentColor">
-          <path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.28.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#00e5ff" stroke-width="2">
+          <polygon points="12 2 2 7 12 12 22 7 12 2"></polygon>
+          <polyline points="2 17 12 22 22 17"></polyline>
+          <polyline points="2 12 12 17 22 12"></polyline>
         </svg>
-        <span>rahul-gits</span>
+        <span>RAHUL<span style="color:var(--accent-blue)">.OS</span></span>
       </div>
       <ul class="nav-links">
         <li><a href="#about">About</a></li>
-        <li><a href="#terminal">Terminal</a></li>
-        <li><a href="#space-arcade">Space Arcade</a></li>
-        <li><a href="#skills">Skills</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="#ailab">AI Lab</a></li>
+        <li><a href="#skills">Skills</a></li>
+        <li><a href="#space-arcade">Arcade</a></li>
         <li><a href="#stats">Stats</a></li>
       </ul>
       <div style="display: flex; gap: 10px;">
@@ -46,28 +48,135 @@
   <header class="hero">
     <div class="container">
       <div class="hero-avatar-wrapper">
-        <img class="hero-avatar" src="https://github.com/rahul-gits.png" alt="rahul-gits avatar" onerror="this.src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'" />
+        <img class="hero-avatar" src="https://github.com/Rahul-gits.png" alt="Rahul avatar" onerror="this.src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png'" />
         <div class="status-badge">
           <span class="status-dot"></span>
-          <span>Online</span>
+          <span>System Online</span>
         </div>
       </div>
-      <h1 class="hero-title">Hi, I'm <span class="typing-text">rahul-gits</span></h1>
+      <h1 class="hero-title">GUNDA <span class="typing-text">RAHUL</span></h1>
+      <p class="hero-subtitle">AI ENGINEER × FULL STACK BUILDER × PRODUCT CREATOR</p>
       <p class="hero-bio">
-        Full-Stack Engineer & Deep Space Coder crafting resilient web applications, modern visual design systems, and interactive arcade experiences.
+        Building intelligent systems, real-world products, and agentic experiments at the intersection of AI × Software Engineering.
       </p>
+
       <div class="hero-tags">
-        <span class="hero-tag">⚡ Full-Stack Engineer</span>
-        <span class="hero-tag">🚀 Next.js & TypeScript</span>
-        <span class="hero-tag">👾 Space Shooter Arcade Defender</span>
+        <span class="hero-tag">🤖 AI / GenAI / Agents</span>
+        <span class="hero-tag">💻 Full-Stack Systems</span>
+        <span class="hero-tag">👁️ Computer Vision</span>
+        <span class="hero-tag">🎮 Interactive Arcade</span>
       </div>
     </div>
   </header>
 
   <main class="container">
 
-    <!-- Terminal CLI Section -->
-    <section id="terminal" class="section">
+    <!-- About & System Card Section -->
+    <section id="about" class="section">
+      <h2 class="section-title">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#00e5ff" stroke-width="2"><circle cx="12" cy="12" r="10"></circle><path d="M12 16v-4"></path><path d="M12 8h.01"></path></svg>
+        System Profile & Overview
+      </h2>
+
+      <div class="system-card">
+        <div class="system-header">
+          <span style="color:var(--accent-blue); font-weight:bold;">RAHUL.OS v2.6 // SYSTEM BLUEPRINT</span>
+          <span style="color:var(--text-muted); font-size:0.85rem;">STATUS: 🟢 OPERATIONAL</span>
+        </div>
+        <div class="system-grid">
+          <div class="sys-item">
+            <strong>🎓 Education</strong>
+            <span>B.Tech in Computer Science & Business Systems</span>
+          </div>
+          <div class="sys-item">
+            <strong>🤖 AI Specialization</strong>
+            <span>GenAI, RAG, Agentic AI Workflows, LLMs, Computer Vision</span>
+          </div>
+          <div class="sys-item">
+            <strong>💻 Stack Mastery</strong>
+            <span>React, TypeScript, Next.js, Node.js, Python, FastAPI, MongoDB</span>
+          </div>
+          <div class="sys-item">
+            <strong>🚀 Mindset</strong>
+            <span>Product Innovation, Startup Agility & Research Experiments</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Projects Grid -->
+    <section id="projects" class="section">
+      <h2 class="section-title">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#39ff88" stroke-width="2"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+        Featured Product Ecosystem
+      </h2>
+
+      <div class="projects-grid">
+        <div class="project-card">
+          <div>
+            <h3 class="project-title">🚗 Nomotix</h3>
+            <p class="project-desc">Emergency vehicle breakdown assistance ecosystem with real-time tracking, dispatch routing, and service provider management.</p>
+            <div class="project-tags">
+              <span class="project-tag">React</span>
+              <span class="project-tag">Node.js</span>
+              <span class="project-tag">MongoDB</span>
+              <span class="project-tag">Mapbox</span>
+            </div>
+          </div>
+          <a href="https://github.com/Rahul-gits" class="btn btn-primary" style="width: 100%; justify-content: center;">Explore Repo »</a>
+        </div>
+
+        <div class="project-card">
+          <div>
+            <h3 class="project-title">🏋️ AI Fitness Trainer</h3>
+            <p class="project-desc">Computer-vision fitness trainer with real-time pose estimation, rep counting, form corrections, and AI coaching.</p>
+            <div class="project-tags">
+              <span class="project-tag">MediaPipe</span>
+              <span class="project-tag">FastAPI</span>
+              <span class="project-tag">Python</span>
+              <span class="project-tag">LLM Coach</span>
+            </div>
+          </div>
+          <a href="https://github.com/Rahul-gits" class="btn btn-primary" style="width: 100%; justify-content: center;">Explore Repo »</a>
+        </div>
+
+        <div class="project-card">
+          <div>
+            <h3 class="project-title">🚌 Campus Ride</h3>
+            <p class="project-desc">Real-time college transportation & campus mobility platform optimizing shuttle routes and live student tracking.</p>
+            <div class="project-tags">
+              <span class="project-tag">React</span>
+              <span class="project-tag">Express</span>
+              <span class="project-tag">MongoDB</span>
+              <span class="project-tag">GeoLocation</span>
+            </div>
+          </div>
+          <a href="https://github.com/Rahul-gits" class="btn btn-primary" style="width: 100%; justify-content: center;">Explore Repo »</a>
+        </div>
+
+        <div class="project-card">
+          <div>
+            <h3 class="project-title">🧠 AI Health Intelligence</h3>
+            <p class="project-desc">Multimodal role-based health intelligence platform combining lab reports, patient history, and autonomous agentic medical workflows.</p>
+            <div class="project-tags">
+              <span class="project-tag">Python</span>
+              <span class="project-tag">RAG</span>
+              <span class="project-tag">LangChain</span>
+              <span class="project-tag">Agentic AI</span>
+            </div>
+          </div>
+          <a href="https://github.com/Rahul-gits" class="btn btn-primary" style="width: 100%; justify-content: center;">Explore Repo »</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- AI Lab & Skill Architecture -->
+    <section id="ailab" class="section">
+      <h2 class="section-title">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#00e5ff" stroke-width="2"><path d="M12 2a10 10 0 1 0 10 10H12V2z"></path><path d="M12 12L2.1 12"></path><path d="M12 12l4.3-8.7"></path></svg>
+        AI Lab Skill Tree & Architecture
+      </h2>
+
       <div class="terminal-card">
         <div class="terminal-header">
           <div class="terminal-dots">
@@ -75,41 +184,48 @@
             <span class="dot dot-yellow"></span>
             <span class="dot dot-green"></span>
           </div>
-          <span class="terminal-title">rahul-gits@github: ~ (zsh)</span>
-          <span style="font-family: var(--font-mono); font-size: 0.8rem; color: var(--text-muted)">Type 'help'</span>
+          <span class="terminal-title">rahul@ailab: ~/architecture</span>
         </div>
-        <div class="terminal-body">
-          <div id="terminalLogs">
-            <div class="terminal-line"><span class="prompt">rahul-gits@github:~$</span> cat welcome.txt</div>
-            <div class="terminal-line" style="color: var(--accent-green)">
-              Welcome to the rahul-gits interactive terminal! Type 'help' to see commands.
-            </div>
-          </div>
-          <div class="terminal-input-wrap">
-            <span class="prompt">rahul-gits@github:~$</span>
-            <input type="text" id="terminalInput" class="terminal-input" placeholder="type 'help', 'about', 'skills', 'game'..." autofocus />
-          </div>
+        <div class="terminal-body" style="font-family:var(--font-mono); color:var(--accent-blue);">
+<pre>
+                         🧠 AI ENGINEERING
+                                │
+          ┌─────────────────────┼─────────────────────┐
+          ↓                     ↓                     ↓
+         ML                   GenAI                 Vision
+          │                     │                     │
+     ┌────┴────┐           ┌────┴────┐           ┌────┴────┐
+     ↓         ↓           ↓         ↓           ↓         ↓
+   Python     Data        LLMs      RAG        OpenCV  MediaPipe
+                           │
+                      ┌────┴────┐
+                      ↓         ↓
+                   Agents    LangGraph
+                      │
+                      ↓
+                 AI PRODUCTS
+</pre>
         </div>
       </div>
     </section>
 
-    <!-- Space Shooter Arcade Section -->
+    <!-- Space Arcade & Game Hub Section -->
     <section id="space-arcade" class="section">
       <h2 class="section-title">
-        <svg width="24" height="24" viewBox="0 0 24 24"><path d="M21 6H3c-1.1 0-2 .9-2 2v8c0 1.1.9 2 2 2h18c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2zm-10 7H8v3H6v-3H3v-2h3V9h2v3h3v2zm4.5 2c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zm3-3c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/></svg>
-        Git Invaders: Space Shooter Arcade
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#bc8cff" stroke-width="2"><rect x="2" y="6" width="20" height="12" rx="2"></rect><path d="M6 12h4m-2-2v4"></path><circle cx="17" cy="10" r="1" fill="currentColor"></circle><circle cx="15" cy="13" r="1" fill="currentColor"></circle></svg>
+        RAHUL ARCADE HUB
       </h2>
       
       <div class="arcade-container">
         <div class="arcade-header">
           <div style="text-align: left">
-            <h3 style="margin: 0; color: var(--accent-green)">DEFEND THE REPOSITORY 👾</h3>
-            <p style="font-size: 0.85rem; color: var(--text-muted)">Destroy incoming bugs, syntax errors, and memory leaks!</p>
+            <h3 style="margin: 0; color: var(--accent-green)">SELECT YOUR MINI-GAME 🎮</h3>
+            <p style="font-size: 0.85rem; color: var(--text-muted)">Play Space Shooter or Tech Snake directly in your browser!</p>
           </div>
-          <div style="display: flex; gap: 10px;">
-            <button class="btn btn-primary" id="btnStart">▶️ START GAME</button>
-            <button class="btn" id="btnPause">⏸️ PAUSE</button>
-            <button class="btn btn-accent" id="btnBomb">💣 COMMIT BOMB</button>
+          <div style="display: flex; gap: 10px; flex-wrap: wrap;">
+            <button class="btn btn-primary" onclick="game.setGameMode('shooter')">🚀 SPACE SHOOTER</button>
+            <button class="btn btn-accent" onclick="game.setGameMode('snake')">🐍 TECH SNAKE</button>
+            <button class="btn" id="btnStart">▶️ START / RESTART</button>
             <button class="btn" id="btnSound">🔊 SOUND: ON</button>
           </div>
         </div>
@@ -121,34 +237,50 @@
         <div class="arcade-controls">
           <div class="arcade-keys">
             <span>Move: <span class="key-cap">W</span><span class="key-cap">A</span><span class="key-cap">S</span><span class="key-cap">D</span> or <span class="key-cap">←</span><span class="key-cap">→</span></span>
-            <span>Shoot: <span class="key-cap">SPACEBAR</span></span>
+            <span>Shoot / Action: <span class="key-cap">SPACEBAR</span></span>
+            <span>Secret Terminal: Press <span class="key-cap">G</span></span>
           </div>
           <div class="touch-controls">
             <button class="btn" id="btnLeft">◄ LEFT</button>
-            <button class="btn btn-primary" id="btnFire">💥 FIRE</button>
+            <button class="btn btn-primary" id="btnFire">💥 FIRE / ACTION</button>
             <button class="btn" id="btnRight">RIGHT ►</button>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- Skills & Tech Stack Section -->
+    <!-- Skills Matrix Section -->
     <section id="skills" class="section">
       <h2 class="section-title">
-        <svg width="24" height="24" viewBox="0 0 24 24"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
-        Skills & Tech Matrix
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#00e5ff" stroke-width="2"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"></path></svg>
+        Technology Matrix & Stack
       </h2>
 
       <div class="skills-tabs">
-        <button class="tab-btn active" data-category="all">All Stack</button>
-        <button class="tab-btn" data-category="frontend">Frontend</button>
-        <button class="tab-btn" data-category="backend">Backend</button>
+        <button class="tab-btn active" data-category="all">All Technology</button>
+        <button class="tab-btn" data-category="ai">AI & Data</button>
+        <button class="tab-btn" data-category="genai">GenAI & Agents</button>
+        <button class="tab-btn" data-category="frontend">Full Stack</button>
         <button class="tab-btn" data-category="devops">DevOps & Cloud</button>
-        <button class="tab-btn" data-category="tools">Tools & AI</button>
       </div>
 
       <div class="skills-grid">
-        <!-- Frontend -->
+        <div class="skill-card" data-category="ai">
+          <span class="skill-icon">🐍</span>
+          <div><div class="skill-name">Python</div><small style="color:var(--text-muted)">Advanced</small></div>
+        </div>
+        <div class="skill-card" data-category="ai">
+          <span class="skill-icon">👁️</span>
+          <div><div class="skill-name">OpenCV / MediaPipe</div><small style="color:var(--text-muted)">Advanced</small></div>
+        </div>
+        <div class="skill-card" data-category="genai">
+          <span class="skill-icon">🤖</span>
+          <div><div class="skill-name">LangChain / LangGraph</div><small style="color:var(--text-muted)">Advanced</small></div>
+        </div>
+        <div class="skill-card" data-category="genai">
+          <span class="skill-icon">🧬</span>
+          <div><div class="skill-name">RAG & Agentic AI</div><small style="color:var(--text-muted)">Advanced</small></div>
+        </div>
         <div class="skill-card" data-category="frontend">
           <span class="skill-icon">⚡</span>
           <div><div class="skill-name">TypeScript</div><small style="color:var(--text-muted)">Advanced</small></div>
@@ -158,130 +290,29 @@
           <div><div class="skill-name">React & Next.js</div><small style="color:var(--text-muted)">Expert</small></div>
         </div>
         <div class="skill-card" data-category="frontend">
-          <span class="skill-icon">🌐</span>
-          <div><div class="skill-name">HTML5 / CSS3</div><small style="color:var(--text-muted)">Expert</small></div>
-        </div>
-        <div class="skill-card" data-category="frontend">
-          <span class="skill-icon">🎨</span>
-          <div><div class="skill-name">Tailwind CSS</div><small style="color:var(--text-muted)">Advanced</small></div>
-        </div>
-
-        <!-- Backend -->
-        <div class="skill-card" data-category="backend">
           <span class="skill-icon">🟢</span>
-          <div><div class="skill-name">Node.js / Express</div><small style="color:var(--text-muted)">Advanced</small></div>
+          <div><div class="skill-name">Node.js & FastAPI</div><small style="color:var(--text-muted)">Advanced</small></div>
         </div>
-        <div class="skill-card" data-category="backend">
-          <span class="skill-icon">🐍</span>
-          <div><div class="skill-name">Python / FastAPI</div><small style="color:var(--text-muted)">Intermediate</small></div>
-        </div>
-        <div class="skill-card" data-category="backend">
-          <span class="skill-icon">🐘</span>
-          <div><div class="skill-name">PostgreSQL</div><small style="color:var(--text-muted)">Advanced</small></div>
-        </div>
-        <div class="skill-card" data-category="backend">
-          <span class="skill-icon">🍃</span>
-          <div><div class="skill-name">MongoDB</div><small style="color:var(--text-muted)">Advanced</small></div>
-        </div>
-
-        <!-- DevOps -->
         <div class="skill-card" data-category="devops">
           <span class="skill-icon">🐳</span>
-          <div><div class="skill-name">Docker</div><small style="color:var(--text-muted)">Intermediate</small></div>
-        </div>
-        <div class="skill-card" data-category="devops">
-          <span class="skill-icon">☁️</span>
-          <div><div class="skill-name">AWS / Vercel</div><small style="color:var(--text-muted)">Advanced</small></div>
-        </div>
-        <div class="skill-card" data-category="devops">
-          <span class="skill-icon">⚙️</span>
-          <div><div class="skill-name">GitHub Actions</div><small style="color:var(--text-muted)">Advanced</small></div>
-        </div>
-
-        <!-- Tools -->
-        <div class="skill-card" data-category="tools">
-          <span class="skill-icon">🐙</span>
-          <div><div class="skill-name">Git & GitHub</div><small style="color:var(--text-muted)">Expert</small></div>
-        </div>
-        <div class="skill-card" data-category="tools">
-          <span class="skill-icon">🤖</span>
-          <div><div class="skill-name">OpenAI API</div><small style="color:var(--text-muted)">Advanced</small></div>
+          <div><div class="skill-name">Docker & Cloud</div><small style="color:var(--text-muted)">Intermediate</small></div>
         </div>
       </div>
     </section>
 
-    <!-- GitHub Stats & Trophies -->
+    <!-- Stats & Trophies -->
     <section id="stats" class="section">
       <h2 class="section-title">
-        <svg width="24" height="24" viewBox="0 0 24 24"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zM9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4z"/></svg>
-        GitHub Analytics & Trophy Cabinet
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#39ff88" stroke-width="2"><path d="M18 20V10M12 20V4M6 20v-6"></path></svg>
+        GitHub Journey & Achievements
       </h2>
 
-      <div class="stats-grid" style="margin-bottom: 25px;">
+      <div class="stats-grid">
         <div class="stats-card">
-          <img src="https://github-readme-stats.vercel.app/api?username=rahul-gits&show_icons=true&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="GitHub Stats" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Rahul-gits&show_icons=true&theme=dark&bg_color=05070b&title_color=00e5ff&text_color=e9f3ff&icon_color=39ff88&border_color=1b2a3a" alt="GitHub Stats" />
         </div>
         <div class="stats-card">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-gits&layout=compact&theme=dark&bg_color=0d1117&title_color=3fb950&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
-        </div>
-      </div>
-
-      <div class="trophy-grid">
-        <div class="trophy-card">
-          <div class="trophy-icon">👨‍🚀</div>
-          <div class="trophy-title">Space Cadet</div>
-          <div class="trophy-desc">Level 99 Developer initialized</div>
-        </div>
-        <div class="trophy-card">
-          <div class="trophy-icon">👾</div>
-          <div class="trophy-title">Bug Destroyer</div>
-          <div class="trophy-desc">1,337+ space bugs slain</div>
-        </div>
-        <div class="trophy-card">
-          <div class="trophy-icon">⚡</div>
-          <div class="trophy-title">Async Master</div>
-          <div class="trophy-desc">Non-blocking promise architect</div>
-        </div>
-        <div class="trophy-card">
-          <div class="trophy-icon">🛡️</div>
-          <div class="trophy-title">Clean Code Sentinel</div>
-          <div class="trophy-desc">99.9% uptime code safety</div>
-        </div>
-      </div>
-    </section>
-
-    <!-- Projects Section -->
-    <section id="projects" class="section">
-      <h2 class="section-title">
-        <svg width="24" height="24" viewBox="0 0 24 24"><path d="M4 6h16v12H4z" fill="none"/><path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 14H4V8h16v10z"/></svg>
-        Featured Open-Source Repositories
-      </h2>
-
-      <div class="projects-grid">
-        <div class="project-card">
-          <div>
-            <h3 class="project-title">👾 Git Invaders Space Arcade</h3>
-            <p class="project-desc">Embedded HTML5 Canvas space shooter mini-game with retro Web Audio synth sound effects and power-ups.</p>
-            <div class="project-tags">
-              <span class="project-tag">HTML5 Canvas</span>
-              <span class="project-tag">JavaScript</span>
-              <span class="project-tag">Web Audio</span>
-            </div>
-          </div>
-          <a href="https://github.com/rahul-gits" class="btn btn-primary" style="width: 100%; justify-content: center;">View Repository »</a>
-        </div>
-
-        <div class="project-card">
-          <div>
-            <h3 class="project-title">⚡ Cosmic UI Component Kit</h3>
-            <p class="project-desc">A glassmorphic React & Next.js component library featuring glowing borders and fluid micro-animations.</p>
-            <div class="project-tags">
-              <span class="project-tag">React</span>
-              <span class="project-tag">TypeScript</span>
-              <span class="project-tag">CSS3</span>
-            </div>
-          </div>
-          <a href="https://github.com/rahul-gits" class="btn btn-primary" style="width: 100%; justify-content: center;">View Repository »</a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-gits&layout=compact&theme=dark&bg_color=05070b&title_color=00e5ff&text_color=e9f3ff&border_color=1b2a3a" alt="Top Languages" />
         </div>
       </div>
     </section>
@@ -291,7 +322,7 @@
   <!-- Footer -->
   <footer class="footer">
     <div class="container">
-      <p>Crafted with 💚 for <strong>rahul-gits</strong> · Defending code quality across the galaxy! 🚀</p>
+      <p>⚡ Build. Experiment. Ship. Repeat. · <strong>RAHUL.OS</strong> Interactive Universe 🚀</p>
     </div>
   </footer>
 
@@ -299,12 +330,12 @@
   <div class="modal-overlay" id="readmeModal">
     <div class="modal-box">
       <div class="modal-header">
-        <h3 style="margin: 0">📋 GitHub Profile README.md Code</h3>
+        <h3 style="margin: 0">📋 RAHUL.OS GitHub Profile README.md</h3>
         <button class="btn" id="btnCloseModal">✕ Close</button>
       </div>
       <div class="modal-body">
         <p style="margin-bottom: 10px; color: var(--text-muted); font-size: 0.9rem;">
-          Copy this raw markdown code and paste it directly into your <code>rahul-gits/README.md</code> repository on GitHub!
+          Copy this raw markdown code and paste it directly into your <code>Rahul-gits/README.md</code> repository on GitHub!
         </p>
         <textarea id="readmeMarkdownText" readonly></textarea>
         <div style="margin-top: 15px; text-align: right;">
