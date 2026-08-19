@@ -276,6 +276,8 @@ Web Foundations   Full Stack Apps   ML & Vision      GenAI & Agentic AI
   </a>
 </p>
 
+> ℹ️ *Note: If the live web link displays a 404, go to repository [Settings -> Pages](https://github.com/Rahul-gits/Rahul-gits/settings/pages) and set **Source** to **GitHub Actions**.*
+
 ---
 
 ## 🏆 ACHIEVEMENTS & MILESTONES
