@@ -271,7 +271,7 @@ Web Foundations   Full Stack Apps   ML & Vision      GenAI & Agentic AI
   <a href="https://rahul-gits.github.io/Rahul-gits/">
     <img src="https://img.shields.io/badge/🎮_LAUNCH_LIVE_FULLSCREEN_ARCADE_HUB-00E5FF?style=for-the-badge&logoColor=black" alt="Launch Live Arcade" />
   </a>
-  <a href="https://rahul-gits.github.io/Rahul-gits/arcade/">
+  <a href="arcade/index.html">
     <img src="https://img.shields.io/badge/🚀_LAUNCH_STANDALONE_ARCADE-39FF88?style=for-the-badge&logoColor=black" alt="Launch Standalone Arcade" />
   </a>
 </p>
