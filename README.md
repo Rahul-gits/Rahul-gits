@@ -4,9 +4,9 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark&mode=light" />
-    <img src="https://www.gitskins.com/api/section/hero?username=rahul-gits&theme=github-dark" alt="rahul-gits hero section" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/hero?username=Rahul Gunda&theme=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=Rahul Gunda&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=Rahul Gunda&theme=github-dark" alt="Rahul Gunda hero section" width="100%" />
   </picture>
 </p>
 
